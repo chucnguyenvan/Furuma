@@ -1,4 +1,4 @@
-package code;
+package code.day1to5_7;
 
 public class House extends Accomodation {
     private boolean status = false;

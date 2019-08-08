@@ -1,12 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f4ddcee9-605d-4d21-98d1-d4d78f8ccf9b" name="Default Changelist" comment="" />
+    <list default="true" id="f4ddcee9-605d-4d21-98d1-d4d78f8ccf9b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/furuma/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/furuma/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/furuma/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/furuma/out/production/furuma/code/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/furuma/out/production/furuma/code/Customer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/furuma/out/production/furuma/code/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/furuma/out/production/furuma/code/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/furuma/src/code/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/furuma/src/code/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/furuma/src/code/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/furuma/src/code/Main.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1P0L9WV6n7HUABnQws3l7rGbeRj" />
   <component name="PropertiesComponent">
@@ -36,5 +48,18 @@
       <updated>1565005915179</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

@@ -1,8 +1,8 @@
-package code;
+package code.day1to5_7;
 
 public class Customer {
     private int MSKH =1;
-    private String name="A";
+    private String name=null;
     private int age=0;
     private int numberVilla=0;
     private int numberHouse=0;
