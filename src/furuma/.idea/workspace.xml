@@ -2,37 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca701ad4-d04b-469d-bbad-4fe65f0ab5b6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/code/day1to5_7/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/code/day6/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/code/day6/Catology.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/code/day6/Library.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/code/day6/Music.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/code/day6/ThuVien.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/code/day6/Video.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/code/day6/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/code/day8/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/code/day8/TestEmployee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baitaplon/.idea/workspace.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/code/day10/Movie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/code/day11/EmployeeFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/code/day11/Profile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/code/day9/Garage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/code/day9/Vehicle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/furuma/code/Accomodation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/furuma/code/Customer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/furuma/code/House.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/furuma/code/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/furuma/code/Payment.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/furuma/code/Swimming.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/furuma/code/Tent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/furuma/code/Villa.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/code/Accomodation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/day1to5_7/Accomodation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/code/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/day1to5_7/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/code/House.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/day1to5_7/House.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/code/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/code/Payment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/day1to5_7/Payment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/code/Swimming.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/day1to5_7/Swimming.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/code/Tent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/day1to5_7/Tent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/code/Villa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/day1to5_7/Villa.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -67,7 +42,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestEmployee">
+  <component name="RunManager" selected="Application.Garage">
+    <configuration name="Garage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="code.day9.Garage" />
+      <module name="furuma" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="code.day9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="code.day1to5_7.Main" />
       <module name="furuma" />
@@ -109,6 +97,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Garage" />
         <item itemvalue="Application.TestEmployee" />
         <item itemvalue="Application.main" />
         <item itemvalue="Application.Main" />
