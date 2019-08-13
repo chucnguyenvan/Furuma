@@ -15,7 +15,7 @@ public class ThuVien<E> {
     public void addListLibrary(E e){
         listLibrary.remove(e);
     }
-    public void disPlayListbrary(){
+    public void displayListbrary(){
         for (int i = 0; i < listLibrary.size(); i++) {
             System.out.println(listLibrary.get(i));
         }

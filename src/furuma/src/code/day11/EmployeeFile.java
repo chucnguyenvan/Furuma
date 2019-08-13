@@ -1,6 +1,6 @@
 package code.day11;
 
-import code.day8.Employee;
+import code.day8day12.Employee;
 
 public class EmployeeFile {
     private int Mshs;
@@ -28,5 +28,12 @@ public class EmployeeFile {
 
     public void setEmployee(Employee employee) {
         this.employee = employee;
+    }
+
+    @Override
+    public String toString() {
+        return "EmployeeFile:\n" +
+                "Mshs=" + Mshs +"\n"+
+                employee.toString();
     }
 }

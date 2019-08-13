@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Furuma.iml" filepath="$PROJECT_DIR$/.idea/Furuma.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Furuma.iml" filepath="$PROJECT_DIR$/Furuma.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/furuma/furuma.iml" filepath="$PROJECT_DIR$/src/furuma/furuma.iml" />
     </modules>
   </component>
 </project>

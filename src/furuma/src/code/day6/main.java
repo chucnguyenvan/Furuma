@@ -7,7 +7,7 @@ public class main {
         bookLibrary.addLibrary(java);
         Book cshape=new Book("HOC C",100000,2000);
         bookLibrary.addLibrary(cshape);
-        bookLibrary.disPlayListbrary();
+        bookLibrary.displayListbrary();
 
         Library<Video> videoLibrary=new Library<Video>();
         Video javatutal=new Video("learn to java A-Z",20000,2017);
